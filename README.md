@@ -15,6 +15,3 @@ Eu sou Riquelme Santos, sou um Programador Front End, atualmente estou aprendend
 <a href="your link" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![Riquelme's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquelmesantosdev&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmesantosdev)](https://github.com/anuraghazra/github-readme-stats)
